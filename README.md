@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/yeoupooh/q-municate-android.svg?branch=master)](https://travis-ci.org/yeoupooh/q-municate-android)
+
 # Q-municate 
 Q-municate is a code of a chat application with a wide range of communication features included (such as messaging, file transfer, push notifications, audio/video calls).
 http://q-municate.com/
